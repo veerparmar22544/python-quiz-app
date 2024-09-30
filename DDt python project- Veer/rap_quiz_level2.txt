@@ -1,0 +1,61 @@
+[
+    {
+        "question": "Which rapper is known for their hit song 'Lose Yourself'?",
+        "options": ["Jay-Z", "Eminem", "Drake", "Kendrick Lamar"],
+        "answer": "B"
+    },
+
+    {
+        "question": "Which legendary rap group released the album 'Straight Outta Compton'?",
+        "options": ["Wu-Tang Clan", "N.W.A", "Public Enemy", "OutKast"],
+        "answer": "B"
+    },
+    
+    {
+        "question": "Who is often referred to as the 'Queen of Rap'?",
+        "options": ["Lil' Kim", "Nicki Minaj", "Missy Elliott", "Lauryn Hill"],
+        "answer": "B"
+    },
+
+    {
+        "question": "Which rap artist founded the record label 'Aftermath Entertainment'?",
+        "options": ["Dr. Dre", "Kanye West", "50 Cent", "Ice Cube"],
+        "answer": "A"
+    },
+    
+    {
+        "question": "Which rapper is known for their alter ego 'Slim Shady'?",
+        "options": ["Jay-Z", "Drake", "Eminem", "Snoop Dogg"],
+        "answer": "C"
+    },
+
+    {
+        "question": "Which city is considered the birthplace of hip-hop?",
+        "options": ["Los Angeles", "Chicago", "Atlanta", "New York City"],
+        "answer": "D"
+    },
+
+    {
+        "question": "Who won the Grammy Award for Best Rap Album in 2020?",
+        "options": ["J. Cole", "Kendrick Lamar", "Tyler, the Creator", "Cardi B"],
+        "answer": "C"
+    },
+
+    {
+        "question": "Which rap duo is composed of André 3000 and Big Boi?",
+        "options": ["Migos", "Run-DMC", "OutKast", "Rae Sremmurd"],
+        "answer": "C"
+    },
+
+    {
+        "question": "Which rapper famously released the album 'The Blueprint'?",
+        "options": ["Nas", "Tupac Shakur", "Jay-z", "Notorious B.I.G"],
+        "answer": "C"
+    },
+
+    {
+        "question": "Who is known for their socially conscious and politically charged rap lyrics in albums like 'To Pimp a Butterfly'?",
+        "options": ["Kendrick Lamar", "Lil Wayne", "Drake", "Travis Scott"],
+        "answer": "A"
+    }
+]

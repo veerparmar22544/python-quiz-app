@@ -1,0 +1,64 @@
+[
+    {
+        "question": "Which rapper achieved massive success with their debut studio album 'Good Kid, M.A.A.D City,' released in 2012?",
+        "options": ["Travis Scott", "Logic", "J. Cole", "Kendrick Lamar"],
+        "answer": "D"
+    },
+
+    {
+        "question": "What is the name of Cardi B's debut studio album, released in 2018?",
+        "options": ["Invasion of Privacy", "Bodak Yellow", "Money Moves", "Queen"],
+        "answer": "A"
+    },
+
+    {
+        "question": "Which rap group released the viral hit 'Bad and Boujee' in 2016?",
+        "options": ["Migos", "Rae Sremmurd", "A Tribe Called Quest", "Run the Jewels"],
+        "answer": "A"
+    },
+
+    {
+        "question": "'Old Town Road,' a genre-blending rap song, became a massive hit in 2019. Who is the artist behind this track?",
+        "options": ["Lil Nas X", "Post Malone", "21 Savage", "Lil Uzi Vert"],
+        "answer": "A"
+    },
+
+    {
+        "question": "Which female rapper collaborated with Beyoncé on the remix of her hit song 'Savage' in 2020?",
+        "options": ["Megan Thee Stallion", "Nicki Minaj", "Doja Cat", "Saweetie"],
+        "answer": "A"
+    },
+
+    {
+        "question": "Which rapper is known for their unique and melodic style, and released the albums 'Luv Is Rage 2' and 'Eternal Atake'?",
+        "options": ["A$AP Rocky", "Lil Baby", "Lil Uzi Vert", "Travis Scott"],
+        "answer": "C"
+    },
+
+    {
+        "question": "In 2020, which rapper released their album 'After Hours,' featuring hits like 'Blinding Lights' and 'Heartless'?",
+        "options": ["Post Malone", "The Weeknd", "Drake", "Future"],
+        "answer": "B"
+    },
+
+    {
+        "question": "Which rap duo released the album 'Culture III' in 2021, featuring songs like 'Straightenin' and 'Type Sh*t'?",
+        "options": ["Run the Jewels", "Rae Sremmurd", "Migos", "OutKast"],
+        "answer": "C"
+    },
+
+    {
+        "question": "Who won the Grammy Award for Best Rap Album in 2021 for their album 'King's Disease'?",
+        "options": ["J. Cole", "Kendrick Lamar", "Nas", "Kanye West"],
+        "answer": "C"
+    },
+
+    {
+        "question": "The rap song 'WAP,' released in 2020, caused controversy and gained immense popularity. Which artists collaborated on this track?",
+        "options": ["Nicki Minaj and Cardi B", "Megan Thee Stallion and Doja Cat", "City Girls and Lizzo", "Cardi B and Megan Thee Stallion"],
+        "answer": "D"
+    }
+
+
+    
+]
